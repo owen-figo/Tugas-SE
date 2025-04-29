@@ -10,8 +10,4 @@ Fitur yang diimplementasikan:
 - In-order traversal untuk debugging
 
 ## Cara Menjalankan Project
-1. Pastikan kamu sudah menginstall **compiler C++** seperti `g++`.
-2. Clone repository ini ke komputer lokal:
-   ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+1. jalankan di **compiler C++** 
